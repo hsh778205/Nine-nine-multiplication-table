@@ -1,0 +1,2 @@
+D:\Github\Nine-nine-multiplication-table\Debug\Nine-nine-multiplication-table.exe
+D:\Github\Nine-nine-multiplication-table\Debug\Nine-nine-multiplication-table.pdb
